@@ -1,0 +1,2283 @@
+{
+  "Restaurants": [
+    {
+      "Badges": [],
+      "Score": 12.6716461,
+      "DriveDistance": 5.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2010-10-13T14:11:19Z",
+      "DeliveryMenuId": 33196,
+      "DeliveryOpeningTime": "2018-04-13T10:30:00Z",
+      "DeliveryCost": 3,
+      "MinimumDeliveryValue": 25,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523700000000+0000)/",
+      "OpeningTimeIso": "2018-04-14T10:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.07,
+      "Latitude": 51.455623,
+      "Longitude": -1.049076,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 9198,
+      "Name": "Herbies Pizza",
+      "Address": "18 Hildens Drive",
+      "Postcode": "RG31 5HU",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 27,
+          "Name": "Italian",
+          "SeoName": "italian"
+        },
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": true,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "herbies-pizza-rg31",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 0,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/9198.gif"
+        }
+      ],
+      "Deals": [
+        {
+          "Description": "25% off when you spend £30",
+          "DiscountPercent": "25",
+          "QualifyingPrice": "30.00"
+        }
+      ],
+      "NumberOfRatings": 323
+    },
+    {
+      "Badges": [],
+      "Score": 13.3514214,
+      "DriveDistance": 5.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2013-10-09T00:00:00Z",
+      "DeliveryMenuId": 116191,
+      "DeliveryOpeningTime": "2018-04-13T10:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 12,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523700000000+0000)/",
+      "OpeningTimeIso": "2018-04-14T10:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.96,
+      "Latitude": 51.468051,
+      "Longitude": -1.030344,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 32758,
+      "Name": "Village Pizza & Kebab",
+      "Address": "254 Kentwood Hill",
+      "Postcode": "RG31 6DP",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        },
+        {
+          "Id": 93,
+          "Name": "Peri Peri",
+          "SeoName": "peri-peri"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "Village-PizzaKebab-RG31",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 1,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32758.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 842
+    },
+    {
+      "Badges": [],
+      "Score": 5.61933,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2012-07-09T00:00:00Z",
+      "DeliveryMenuId": 74314,
+      "DeliveryOpeningTime": "2018-04-13T10:30:00Z",
+      "DeliveryCost": 4,
+      "MinimumDeliveryValue": 14,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 60,
+      "OpeningTime": "/Date(1523701800000+0000)/",
+      "OpeningTimeIso": "2018-04-14T10:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.85,
+      "Latitude": 51.457451,
+      "Longitude": -0.999612,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 22059,
+      "Name": "Milano Pizza",
+      "Address": "477 Oxford Road",
+      "Postcode": "RG30 1HF",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        },
+        {
+          "Id": 27,
+          "Name": "Italian",
+          "SeoName": "italian"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "milanopizza-rg30",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 2,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22059.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 370
+    },
+    {
+      "Badges": [],
+      "Score": 5.10830832,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2009-01-16T19:55:13Z",
+      "DeliveryMenuId": 10871,
+      "DeliveryOpeningTime": "2018-04-13T11:00:00Z",
+      "DeliveryCost": 3,
+      "MinimumDeliveryValue": 10,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 60,
+      "OpeningTime": "/Date(1523703600000+0000)/",
+      "OpeningTimeIso": "2018-04-14T11:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.1,
+      "Latitude": 51.455502,
+      "Longitude": -0.976838,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 3092,
+      "Name": "Jasmine Garden RG1",
+      "Address": "40 Oxford Road",
+      "Postcode": "RG1 7LA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 33,
+          "Name": "Chinese",
+          "SeoName": "chinese"
+        },
+        {
+          "Id": 30,
+          "Name": "Thai",
+          "SeoName": "thai"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "jasmine-garden",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 3,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 4,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/3092.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 2917
+    },
+    {
+      "Badges": [],
+      "Score": 4.88666439,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2012-01-04T14:17:45Z",
+      "DeliveryMenuId": 58562,
+      "DeliveryOpeningTime": "2018-04-13T13:00:00Z",
+      "DeliveryCost": 5,
+      "MinimumDeliveryValue": 29.99,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523710800000+0000)/",
+      "OpeningTimeIso": "2018-04-14T13:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.28,
+      "Latitude": 51.456618,
+      "Longitude": -0.99583,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 17771,
+      "Name": "Moons Grill Oxford Road",
+      "Address": "383 Oxford Road",
+      "Postcode": "RG30 1HA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 22,
+          "Name": "American",
+          "SeoName": "american"
+        },
+        {
+          "Id": 118,
+          "Name": "Grill",
+          "SeoName": "grill"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "moonsgrill-rg30",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 4,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 4.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17771.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 869
+    },
+    {
+      "Badges": [],
+      "Score": 4.678872,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2012-10-08T00:00:00Z",
+      "DeliveryMenuId": 82309,
+      "DeliveryOpeningTime": "2018-04-13T10:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 13.99,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523700000000+0000)/",
+      "OpeningTimeIso": "2018-04-14T10:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.54,
+      "Latitude": 51.457776,
+      "Longitude": -0.998712,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 24086,
+      "Name": "Papa John's - Oxford Road",
+      "Address": "3 Cholsey House, Moulsford Mews, Oxford Road",
+      "Postcode": "RG30 1AP",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        },
+        {
+          "Id": 22,
+          "Name": "American",
+          "SeoName": "american"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "papajohns-RG30",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 5,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 4.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/24086.gif"
+        }
+      ],
+      "Deals": [
+        {
+          "Description": "20% off when you spend £25",
+          "DiscountPercent": "20",
+          "QualifyingPrice": "25.00"
+        }
+      ],
+      "NumberOfRatings": 301
+    },
+    {
+      "Badges": [],
+      "Score": 4.04268932,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2012-08-01T00:00:00Z",
+      "DeliveryMenuId": 76690,
+      "DeliveryOpeningTime": "2018-04-13T11:30:00Z",
+      "DeliveryCost": 7,
+      "MinimumDeliveryValue": 30,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523705400000+0000)/",
+      "OpeningTimeIso": "2018-04-14T11:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 3.68,
+      "Latitude": 51.442617,
+      "Longitude": -1.010464,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 22666,
+      "Name": "Fams Picobello Italian Pizza & Peri Peri",
+      "Address": "40 Coronation Square",
+      "Postcode": "RG30 3QN",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 27,
+          "Name": "Italian",
+          "SeoName": "italian"
+        },
+        {
+          "Id": 81,
+          "Name": "Kebab",
+          "SeoName": "kebabs"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "famspizza-periperi-rg30",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 6,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 3.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22666.gif"
+        }
+      ],
+      "Deals": [
+        {
+          "Description": "20% off when you spend £25",
+          "DiscountPercent": "20",
+          "QualifyingPrice": "25.00"
+        }
+      ],
+      "NumberOfRatings": 180
+    },
+    {
+      "Badges": [],
+      "Score": 3.83239865,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2016-02-25T16:28:07Z",
+      "DeliveryMenuId": 207454,
+      "DeliveryOpeningTime": "2018-04-13T09:00:00Z",
+      "DeliveryCost": 5,
+      "MinimumDeliveryValue": 0,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 55,
+      "OpeningTime": "/Date(1523696400000+0000)/",
+      "OpeningTimeIso": "2018-04-14T09:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.12,
+      "Latitude": 51.453585,
+      "Longitude": -0.947252,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 59181,
+      "Name": "Reading Pizza & Piri Piri Grilled Chicken",
+      "Address": "229C London Road",
+      "Postcode": "RG1 3NY",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        },
+        {
+          "Id": 93,
+          "Name": "Peri Peri",
+          "SeoName": "peri-peri"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "reading-pizza-reading",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 7,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 4,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/59181.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 866
+    },
+    {
+      "Badges": [],
+      "Score": 3.37010479,
+      "DriveDistance": null,
+      "DriveInfoCalculated": false,
+      "NewnessDate": "2016-12-15T16:25:37Z",
+      "DeliveryMenuId": 234947,
+      "DeliveryOpeningTime": "2018-04-13T11:00:00Z",
+      "DeliveryCost": 2,
+      "MinimumDeliveryValue": 10,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523703600000+0000)/",
+      "OpeningTimeIso": "2018-04-14T11:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.5,
+      "Latitude": 51.442079,
+      "Longitude": -0.868495,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 66066,
+      "Name": "The Jolly Farmer",
+      "Address": "Davis Street",
+      "Postcode": "RG10 0TH",
+      "City": "Hurst",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 57,
+          "Name": "Nepalese",
+          "SeoName": "nepalese"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "the-jolly-farmer-twyford",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 8,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 5.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/66066.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 34
+    },
+    {
+      "Badges": [],
+      "Score": 3.27604485,
+      "DriveDistance": null,
+      "DriveInfoCalculated": false,
+      "NewnessDate": "2017-02-15T10:48:14Z",
+      "DeliveryMenuId": 240836,
+      "DeliveryOpeningTime": "2018-04-13T09:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 0,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 65,
+      "OpeningTime": "/Date(1523696400000+0000)/",
+      "OpeningTimeIso": "2018-04-14T09:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 3.42,
+      "Latitude": 51.450345,
+      "Longitude": -0.939987,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 67540,
+      "Name": "Chicken Base",
+      "Address": "144 Wokingham Road",
+      "Postcode": "RG6 1JL",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 79,
+          "Name": "Chicken",
+          "SeoName": "chicken"
+        },
+        {
+          "Id": 22,
+          "Name": "American",
+          "SeoName": "american"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "chicken-base-new-earley-rg6",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 9,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 3.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/67540.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 483
+    },
+    {
+      "Badges": [],
+      "Score": 2.98091054,
+      "DriveDistance": null,
+      "DriveInfoCalculated": false,
+      "NewnessDate": "2015-02-19T00:00:00Z",
+      "DeliveryMenuId": 170039,
+      "DeliveryOpeningTime": "2018-04-13T15:00:00Z",
+      "DeliveryCost": 5,
+      "MinimumDeliveryValue": 25,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523631600000+0000)/",
+      "OpeningTimeIso": "2018-04-13T15:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.87,
+      "Latitude": 51.483087,
+      "Longitude": -0.9624,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 48238,
+      "Name": "Turkish Grill",
+      "Address": "13 Cavendish Road",
+      "Postcode": "RG4 8XU",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 81,
+          "Name": "Kebab",
+          "SeoName": "kebabs"
+        },
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "turkishgrill-rg4",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 10,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48238.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 278
+    },
+    {
+      "Badges": [],
+      "Score": 2.63119459,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-07-20T11:58:29Z",
+      "DeliveryMenuId": 256856,
+      "DeliveryOpeningTime": "2018-04-13T13:00:00Z",
+      "DeliveryCost": 5,
+      "MinimumDeliveryValue": 29.99,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523703600000+0000)/",
+      "OpeningTimeIso": "2018-04-14T11:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.65,
+      "Latitude": 51.457085,
+      "Longitude": -0.997893,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 71606,
+      "Name": "Farmhouse Pizza",
+      "Address": "435 Oxford Road",
+      "Postcode": "RG30 1HD",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        },
+        {
+          "Id": 27,
+          "Name": "Italian",
+          "SeoName": "italian"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "farmhouse-pizzarg30",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 11,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 4.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/71606.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 21
+    },
+    {
+      "Badges": [],
+      "Score": 2.30772185,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-03-31T15:46:32Z",
+      "DeliveryMenuId": 244890,
+      "DeliveryOpeningTime": "2018-04-13T10:00:00Z",
+      "DeliveryCost": 5,
+      "MinimumDeliveryValue": 0,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523700000000+0000)/",
+      "OpeningTimeIso": "2018-04-14T10:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 3.22,
+      "Latitude": 51.453585,
+      "Longitude": -0.947252,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 68576,
+      "Name": "Feedos",
+      "Address": "229C London Road",
+      "Postcode": "RG1 3NY",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 37,
+          "Name": "Pakistani",
+          "SeoName": "pakistani"
+        },
+        {
+          "Id": 118,
+          "Name": "Grill",
+          "SeoName": "grill"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "feedos-earley",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 12,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 3,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/68576.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 55
+    },
+    {
+      "Badges": [],
+      "Score": 2.06325,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2015-12-11T10:41:33Z",
+      "DeliveryMenuId": null,
+      "DeliveryOpeningTime": null,
+      "DeliveryCost": null,
+      "MinimumDeliveryValue": null,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": null,
+      "OpeningTime": "/Date(1523701800000+0000)/",
+      "OpeningTimeIso": "2018-04-14T10:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.42,
+      "Latitude": 51.452897,
+      "Longitude": -0.972065,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 56440,
+      "Name": "YO! Sushi - Reading",
+      "Address": "House of Fraser The Oracle Centre",
+      "Postcode": "RG1 2AS",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 83,
+          "Name": "Sushi",
+          "SeoName": "sushi"
+        },
+        {
+          "Id": 35,
+          "Name": "Japanese",
+          "SeoName": "japanese"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "yo-sushi-reading",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 13,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 5.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/56440.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 60
+    },
+    {
+      "Badges": [],
+      "Score": 1.92238951,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-05-23T12:43:43Z",
+      "DeliveryMenuId": 249301,
+      "DeliveryOpeningTime": "2018-04-13T11:30:00Z",
+      "DeliveryCost": 7,
+      "MinimumDeliveryValue": 30,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523705400000+0000)/",
+      "OpeningTimeIso": "2018-04-14T11:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 3.87,
+      "Latitude": 51.442617,
+      "Longitude": -1.010464,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 69694,
+      "Name": "Fams Spice Garden Indian",
+      "Address": "40 Coronation Square",
+      "Postcode": "RG30 3QN",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 85,
+          "Name": "Curry",
+          "SeoName": "curry"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "fams-spice-gardenindianreading",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 14,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 4,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/69694.gif"
+        }
+      ],
+      "Deals": [
+        {
+          "Description": "20% off when you spend £25",
+          "DiscountPercent": "20",
+          "QualifyingPrice": "25.00"
+        }
+      ],
+      "NumberOfRatings": 15
+    },
+    {
+      "Badges": [],
+      "Score": 1.75261557,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-02-07T08:08:57Z",
+      "DeliveryMenuId": 239974,
+      "DeliveryOpeningTime": "2018-04-13T11:00:00Z",
+      "DeliveryCost": 5,
+      "MinimumDeliveryValue": 10,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523703600000+0000)/",
+      "OpeningTimeIso": "2018-04-14T11:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 2.71,
+      "Latitude": 51.455546,
+      "Longitude": -0.989334,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 67322,
+      "Name": "Chicken Base",
+      "Address": "263 Oxford Road",
+      "Postcode": "RG1 7PY",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 79,
+          "Name": "Chicken",
+          "SeoName": "chicken"
+        },
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "chicken-base-rg1",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 15,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 2.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/67322.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 135
+    },
+    {
+      "Badges": [],
+      "Score": 1.74167585,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-02-15T10:51:41Z",
+      "DeliveryMenuId": 240780,
+      "DeliveryOpeningTime": "2018-04-13T09:00:00Z",
+      "DeliveryCost": 5,
+      "MinimumDeliveryValue": 15,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523635200000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 2.55,
+      "Latitude": 51.452655,
+      "Longitude": -0.968055,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 67526,
+      "Name": "Chicken Base Central",
+      "Address": "45 London Street",
+      "Postcode": "RG1 4PS",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 79,
+          "Name": "Chicken",
+          "SeoName": "chicken"
+        },
+        {
+          "Id": 78,
+          "Name": "Burgers",
+          "SeoName": "burgers"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": true,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "chicken-base-reading",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 16,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 2.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/67526.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 44
+    },
+    {
+      "Badges": [],
+      "Score": 19.9349976,
+      "DriveDistance": 5.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2018-04-06T15:56:12.683Z",
+      "DeliveryMenuId": 286072,
+      "DeliveryOpeningTime": "2018-04-13T16:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 12,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523635200000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 3.93,
+      "Latitude": 51.442645,
+      "Longitude": -1.046634,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 78975,
+      "Name": "Pasha",
+      "Address": "100 Royal Avenue",
+      "Postcode": "RG31 4UT",
+      "City": "Calcot",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 85,
+          "Name": "Curry",
+          "SeoName": "curry"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": true,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "pasha-tilehurst",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 17,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 4,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/78975.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 9
+    },
+    {
+      "Badges": [],
+      "Score": 12.8079767,
+      "DriveDistance": 5.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2016-10-19T11:00:03Z",
+      "DeliveryMenuId": 228772,
+      "DeliveryOpeningTime": "2018-04-13T15:30:00Z",
+      "DeliveryCost": 1,
+      "MinimumDeliveryValue": 13,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 60,
+      "OpeningTime": "/Date(1523631600000+0000)/",
+      "OpeningTimeIso": "2018-04-13T15:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.16,
+      "Latitude": 51.46912,
+      "Longitude": -1.029302,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 64518,
+      "Name": "Grillz",
+      "Address": "256 Kentwood Hill",
+      "Postcode": "RG31 6DR",
+      "City": "Tilehurst, Reading",
+      "CuisineTypes": [
+        {
+          "Id": 93,
+          "Name": "Peri Peri",
+          "SeoName": "peri-peri"
+        },
+        {
+          "Id": 118,
+          "Name": "Grill",
+          "SeoName": "grill"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "grillz-tilehurst",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 18,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/64518.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 285
+    },
+    {
+      "Badges": [],
+      "Score": 10.78158,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2015-10-02T12:29:47Z",
+      "DeliveryMenuId": 191991,
+      "DeliveryOpeningTime": "2018-04-13T16:00:00Z",
+      "DeliveryCost": 3.5,
+      "MinimumDeliveryValue": 12,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523635200000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.11,
+      "Latitude": 51.458928,
+      "Longitude": -1.005251,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 54525,
+      "Name": "Wan Choi",
+      "Address": "611 Oxford Road",
+      "Postcode": "RG30 1HL",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 33,
+          "Name": "Chinese",
+          "SeoName": "chinese"
+        },
+        {
+          "Id": 136,
+          "Name": "Oriental",
+          "SeoName": "oriental"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "wan-choi-holy-brook",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 19,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 4,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/54525.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 689
+    },
+    {
+      "Badges": [],
+      "Score": 6.710294,
+      "DriveDistance": 5.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2011-07-26T20:05:29Z",
+      "DeliveryMenuId": 48241,
+      "DeliveryOpeningTime": "2018-04-13T16:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 15,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523635200000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.16,
+      "Latitude": 51.460558,
+      "Longitude": -1.036548,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 14307,
+      "Name": "Dilraj",
+      "Address": "23 School Road",
+      "Postcode": "RG31 5AR",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 50,
+          "Name": "Bangladeshi",
+          "SeoName": "bangladeshi"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "dilraj",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 20,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14307.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 524
+    },
+    {
+      "Badges": [],
+      "Score": 6.114196,
+      "DriveDistance": 5.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2013-07-19T00:00:00Z",
+      "DeliveryMenuId": 108440,
+      "DeliveryOpeningTime": "2018-04-13T16:30:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 20,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523637000000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.1,
+      "Latitude": 51.460566,
+      "Longitude": -1.03658,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 30781,
+      "Name": "Himalayan Hot Spot",
+      "Address": "1 School Road Tilehurst",
+      "Postcode": "RG31 5AR",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 85,
+          "Name": "Curry",
+          "SeoName": "curry"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "himalayan-hot-spot-rg31",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 21,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/30781.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 345
+    },
+    {
+      "Badges": [],
+      "Score": 5.418214,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2013-12-19T09:54:28Z",
+      "DeliveryMenuId": 124751,
+      "DeliveryOpeningTime": "2018-04-13T16:00:00Z",
+      "DeliveryCost": 2,
+      "MinimumDeliveryValue": 15,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523629800000+0000)/",
+      "OpeningTimeIso": "2018-04-13T14:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.82,
+      "Latitude": 51.456574,
+      "Longitude": -0.995748,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 35672,
+      "Name": "Reading Grill",
+      "Address": "405 Oxford Road",
+      "Postcode": "RG30 1HA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 81,
+          "Name": "Kebab",
+          "SeoName": "kebabs"
+        },
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "readinggrill-rg30",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 22,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35672.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 398
+    },
+    {
+      "Badges": [],
+      "Score": 5.15516758,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-11-23T17:39:47Z",
+      "DeliveryMenuId": 270157,
+      "DeliveryOpeningTime": "2018-04-13T16:30:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 15,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 55,
+      "OpeningTime": "/Date(1523637000000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.43,
+      "Latitude": 51.601112,
+      "Longitude": -1.125421,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 74967,
+      "Name": "Delhi Brasserie",
+      "Address": "66-67 High Street",
+      "Postcode": "OX10 0BX",
+      "City": "Wallingford",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 50,
+          "Name": "Bangladeshi",
+          "SeoName": "bangladeshi"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "delhi-brasserie-wallingford",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 23,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 5.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/74967.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 27
+    },
+    {
+      "Badges": [],
+      "Score": 4.95131,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2012-08-20T00:00:00Z",
+      "DeliveryMenuId": 78118,
+      "DeliveryOpeningTime": "2018-04-13T16:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 12,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523635200000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.04,
+      "Latitude": 51.462302,
+      "Longitude": -1.013973,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 23029,
+      "Name": "Kebab Corner",
+      "Address": "745 Oxford Road",
+      "Postcode": "RG30 1JA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 81,
+          "Name": "Kebab",
+          "SeoName": "kebabs"
+        },
+        {
+          "Id": 79,
+          "Name": "Chicken",
+          "SeoName": "chicken"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "kebabcorner-rg30",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 24,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 4,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23029.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 676
+    },
+    {
+      "Badges": [],
+      "Score": 4.430511,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2015-08-26T08:18:26Z",
+      "DeliveryMenuId": 189033,
+      "DeliveryOpeningTime": "2018-04-13T16:00:00Z",
+      "DeliveryCost": 5,
+      "MinimumDeliveryValue": 0,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 60,
+      "OpeningTime": "/Date(1523635200000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.19,
+      "Latitude": 51.449714,
+      "Longitude": -1.017223,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 53786,
+      "Name": "Everest Tandoori",
+      "Address": "8-9 Meadway",
+      "Postcode": "RG30 4AA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 57,
+          "Name": "Nepalese",
+          "SeoName": "nepalese"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "everest-tandoori-holy-brook",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 25,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/53786.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 374
+    },
+    {
+      "Badges": [],
+      "Score": 3.77233386,
+      "DriveDistance": null,
+      "DriveInfoCalculated": false,
+      "NewnessDate": "2012-04-13T09:44:47Z",
+      "DeliveryMenuId": 66707,
+      "DeliveryOpeningTime": "2018-04-13T15:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 15,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523631600000+0000)/",
+      "OpeningTimeIso": "2018-04-13T15:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.43,
+      "Latitude": 51.44541,
+      "Longitude": -0.965236,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 20132,
+      "Name": "Just Pizza UK",
+      "Address": "41 Whitley Street",
+      "Postcode": "RG2 0EG",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 27,
+          "Name": "Italian",
+          "SeoName": "italian"
+        },
+        {
+          "Id": 82,
+          "Name": "Pizza",
+          "SeoName": "pizza"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "theperfectpizzacompany-rg2",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 26,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 5.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20132.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 1761
+    },
+    {
+      "Badges": [],
+      "Score": 3.51352429,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2008-11-24T00:57:45Z",
+      "DeliveryMenuId": 10145,
+      "DeliveryOpeningTime": "2018-04-13T16:30:00Z",
+      "DeliveryCost": 3,
+      "MinimumDeliveryValue": 12,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523637000000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.07,
+      "Latitude": 51.456618,
+      "Longitude": -0.99583,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 2864,
+      "Name": "Hot Stuff",
+      "Address": "421 Oxford Road",
+      "Postcode": "RG30 1HA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 81,
+          "Name": "Kebab",
+          "SeoName": "kebabs"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "hot-stuff",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 27,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 4,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2864.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 674
+    },
+    {
+      "Badges": [],
+      "Score": 2.958057,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2012-08-17T09:05:39Z",
+      "DeliveryMenuId": 78142,
+      "DeliveryOpeningTime": "2018-04-13T16:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 12,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523635200000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 3.78,
+      "Latitude": 51.462302,
+      "Longitude": -1.013973,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 23035,
+      "Name": "Indian Corner",
+      "Address": "745 Oxford Road",
+      "Postcode": "RG30 1JA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 85,
+          "Name": "Curry",
+          "SeoName": "curry"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "indiancorner-rg30",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 28,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 4,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23035.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 102
+    },
+    {
+      "Badges": [],
+      "Score": 2.69523239,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2015-11-19T14:26:11Z",
+      "DeliveryMenuId": 198225,
+      "DeliveryOpeningTime": "2018-04-13T16:30:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 15,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523637000000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 3.31,
+      "Latitude": 51.462302,
+      "Longitude": -1.013973,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 55844,
+      "Name": "A Taste of the Caribbean",
+      "Address": "743A Oxford Road",
+      "Postcode": "RG30 1JA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 76,
+          "Name": "Caribbean",
+          "SeoName": "caribbean"
+        },
+        {
+          "Id": 38,
+          "Name": "Jamaican",
+          "SeoName": "jamaican"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": false,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "a-taste-of-the-caribbean-holy-brook",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 29,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 3.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/55844.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 125
+    },
+    {
+      "Badges": [],
+      "Score": 4.93512058,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-05-23T12:53:49Z",
+      "DeliveryMenuId": 250272,
+      "DeliveryOpeningTime": "2018-04-13T16:30:00Z",
+      "DeliveryCost": 3,
+      "MinimumDeliveryValue": 13,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523637000000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:30:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.46,
+      "Latitude": 51.601112,
+      "Longitude": -1.125421,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 69941,
+      "Name": "Anokhi Cuisine",
+      "Address": "76 High Street",
+      "Postcode": "OX10 0BX",
+      "City": "Oxfordshire",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 50,
+          "Name": "Bangladeshi",
+          "SeoName": "bangladeshi"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": true,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "anokhi-cuisine-ox10",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 30,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 5.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/69941.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 158
+    },
+    {
+      "Badges": [],
+      "Score": 3.7919786,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-12-04T11:46:26Z",
+      "DeliveryMenuId": 271336,
+      "DeliveryOpeningTime": "2018-04-13T05:00:00Z",
+      "DeliveryCost": 2,
+      "MinimumDeliveryValue": 10,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523682000000+0000)/",
+      "OpeningTimeIso": "2018-04-14T05:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.05,
+      "Latitude": 51.448223,
+      "Longitude": -0.950926,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 75264,
+      "Name": "Monty's",
+      "Address": "41 Addington Road",
+      "Postcode": "RG1 5PU",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 92,
+          "Name": "Breakfast",
+          "SeoName": "breakfast"
+        },
+        {
+          "Id": 90,
+          "Name": "Sandwiches",
+          "SeoName": "sandwiches"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": true,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "montys-reading",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 31,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/75264.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 140
+    },
+    {
+      "Badges": [],
+      "Score": 3.3423357,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2017-03-17T08:11:52Z",
+      "DeliveryMenuId": 243524,
+      "DeliveryOpeningTime": "2018-04-13T15:00:00Z",
+      "DeliveryCost": 1,
+      "MinimumDeliveryValue": 40,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 45,
+      "OpeningTime": "/Date(1523628900000+0000)/",
+      "OpeningTimeIso": "2018-04-13T14:15:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.44,
+      "Latitude": 51.456406,
+      "Longitude": -0.97652,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 68232,
+      "Name": "Twisted Burrito",
+      "Address": "89 Friar Street",
+      "Postcode": "RG1 1EL",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 141,
+          "Name": "Burritos",
+          "SeoName": "burritos"
+        },
+        {
+          "Id": 111,
+          "Name": "Wraps",
+          "SeoName": "wraps"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": true,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "twistedburrito-rg1",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 32,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": false,
+      "RatingStars": 4.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/68232.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 168
+    },
+    {
+      "Badges": [],
+      "Score": 1.9887954,
+      "DriveDistance": 9.2,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2010-10-13T10:32:06Z",
+      "DeliveryMenuId": 33115,
+      "DeliveryOpeningTime": "2018-04-13T12:00:00Z",
+      "DeliveryCost": 0,
+      "MinimumDeliveryValue": 25,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": 60,
+      "OpeningTime": "/Date(1523635200000+0000)/",
+      "OpeningTimeIso": "2018-04-13T16:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 4.34,
+      "Latitude": 51.453567,
+      "Longitude": -0.947324,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 9186,
+      "Name": "Star Karahi",
+      "Address": "251 London Road",
+      "Postcode": "RG1 3NY",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 31,
+          "Name": "Indian",
+          "SeoName": "indian"
+        },
+        {
+          "Id": 85,
+          "Name": "Curry",
+          "SeoName": "curry"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": true,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "star-karahi-rg1",
+      "IsCloseBy": false,
+      "IsHalal": true,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 33,
+      "IsOpenNowForDelivery": true,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 4.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/9186.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 379
+    },
+    {
+      "Badges": [],
+      "Score": 1.63305616,
+      "DriveDistance": 6.7,
+      "DriveInfoCalculated": true,
+      "NewnessDate": "2015-05-30T12:57:17Z",
+      "DeliveryMenuId": null,
+      "DeliveryOpeningTime": null,
+      "DeliveryCost": null,
+      "MinimumDeliveryValue": null,
+      "DeliveryTimeMinutes": null,
+      "DeliveryWorkingTimeMinutes": null,
+      "OpeningTime": "/Date(1523703600000+0000)/",
+      "OpeningTimeIso": "2018-04-14T11:00:00Z",
+      "SendsOnItsWayNotifications": false,
+      "RatingAverage": 5.57,
+      "Latitude": 51.456574,
+      "Longitude": -0.995748,
+      "Tags": [],
+      "ScoreMetadata": {},
+      "Id": 51851,
+      "Name": "Eugustus",
+      "Address": "399 Oxford Road",
+      "Postcode": "RG30 1HA",
+      "City": "Reading",
+      "CuisineTypes": [
+        {
+          "Id": 79,
+          "Name": "Chicken",
+          "SeoName": "chicken"
+        },
+        {
+          "Id": 101,
+          "Name": "Eastern European",
+          "SeoName": "eastern-european"
+        }
+      ],
+      "Url": "",
+      "IsOpenNow": false,
+      "IsPremier": false,
+      "IsSponsored": false,
+      "IsTemporaryBoost": false,
+      "SponsoredPosition": 0,
+      "IsNew": false,
+      "IsTemporarilyOffline": true,
+      "ReasonWhyTemporarilyOffline": "",
+      "UniqueName": "eugustus-holy-brook",
+      "IsCloseBy": false,
+      "IsHalal": false,
+      "IsTestRestaurant": false,
+      "DefaultDisplayRank": 34,
+      "IsOpenNowForDelivery": false,
+      "IsOpenNowForCollection": true,
+      "RatingStars": 5.5,
+      "Logo": [
+        {
+          "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51851.gif"
+        }
+      ],
+      "Deals": [],
+      "NumberOfRatings": 18
+    }
+  ],
+  "ShortResultText": "RG8",
+  "Area": "Lower Basildon",
+  "Errors": null,
+  "HasErrors": false,
+  "MetaData": {
+    "SearchedTerms": {
+      "Phrase": "RG8",
+      "Postcode": null,
+      "Cuisine": null,
+      "CuisineSeoName": null,
+      "City": null
+    },
+    "TagDetails": [
+      {
+        "Key": "tried-and-tasted",
+        "DisplayName": "Tried and Tasted",
+        "Colour": "#04822C",
+        "BackgroundColour": "#E6F6C5",
+        "Priority": 300
+      },
+      {
+        "Key": "bta-winner-2015",
+        "DisplayName": "BTA Winner 2015",
+        "Colour": "#3B1249",
+        "BackgroundColour": "#EAD9F0",
+        "Priority": 745
+      },
+      {
+        "Key": "bta-winner-2016",
+        "DisplayName": "BTA Winner 2016",
+        "Colour": "#3B1249",
+        "BackgroundColour": "#EAD9F0",
+        "Priority": 756
+      },
+      {
+        "Key": "bta-winner-2017",
+        "DisplayName": "BTA Winner 2017",
+        "Colour": "#3B1249",
+        "BackgroundColour": "#EAD9F0",
+        "Priority": 757
+      },
+      {
+        "Key": "bta-winner-2015-2017",
+        "DisplayName": "BTA Winner 2017, 2015",
+        "Colour": "#3B1249",
+        "BackgroundColour": "#EAD9F0",
+        "Priority": 758
+      },
+      {
+        "Key": "bta-winner-2016-2017",
+        "DisplayName": "BTA Winner 2017, 2016",
+        "Colour": "#3B1249",
+        "BackgroundColour": "#EAD9F0",
+        "Priority": 759
+      },
+      {
+        "Key": "bta-winner-2015-2016-2017",
+        "DisplayName": "BTA Winner 2017 - 2015",
+        "Colour": "#3B1249",
+        "BackgroundColour": "#EAD9F0",
+        "Priority": 760
+      },
+      {
+        "Key": "bta-winner-2015-2016",
+        "DisplayName": "BTA Winner 2016, 2015",
+        "Colour": "#3B1249",
+        "BackgroundColour": "#EAD9F0",
+        "Priority": 756
+      },
+      {
+        "Key": "new-ownership",
+        "DisplayName": "New Ownership",
+        "Colour": "#535353",
+        "BackgroundColour": "#FFE0B4",
+        "Priority": 250
+      },
+      {
+        "Key": "xfactor-promo",
+        "DisplayName": "As seen on The X Factor",
+        "Colour": "#ffffff",
+        "BackgroundColour": "#333333",
+        "Priority": 260
+      }
+    ]
+  }
+}

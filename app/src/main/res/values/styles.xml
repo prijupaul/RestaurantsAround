@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/themeGreen</item>
+        <item name="colorPrimaryDark">@color/themeGreenDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="name_bold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
